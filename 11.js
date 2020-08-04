@@ -1,6 +1,6 @@
 "use strict"
 
-let num=Math.floor(Math.random() * 11);
+let num = Math.floor(Math.random() * 11);
 console.log(num);
 let userNumber;
 do {
